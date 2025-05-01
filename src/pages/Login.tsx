@@ -111,11 +111,6 @@ const Login = () => {
                   required
                 />
               </div>
-              <div className="text-xs text-muted-foreground">
-                <p>Demo accounts:</p>
-                <p>admin@example.com / adminpass</p>
-                <p>user@example.com / userpass</p>
-              </div>
             </CardContent>
             <CardFooter className="flex flex-col">
               <Button
